@@ -1,0 +1,9 @@
+{
+    "cmd": ["cmd", "/c", "Z:\\CPP\\Data\\Packages\\User\\run_auto.bat", "$file", "$file_path", "$file_base_name"],
+    "selector": "source.python, source.c, source.c++, source.java, source.php",
+    "working_dir": "$file_path",
+    "shell": true,
+    "encoding": "utf-8",
+    "quiet": false,
+    "word_wrap": true
+}
